@@ -1,0 +1,33 @@
+body{
+margin: 0px;
+padding: 0px;
+
+}
+
+@font-face {
+    font-family: Font1;
+    src: url("../fonts/Itim-Regular.ttf");
+}
+
+#mae{
+text-align: center;
+
+}
+
+#titulo{
+font-family: Font1;
+font-size: 50px;
+text-shadow: 1px 2px 5px #ff1493;
+
+}
+
+.square{
+
+width: 100px;
+height: 100px;
+background-color: #000000;
+border: 2px solid #ff1493;
+border-radius: 10px;
+display: inline-block;
+
+}
