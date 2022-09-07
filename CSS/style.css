@@ -25,9 +25,46 @@ text-shadow: 1px 2px 5px #ff1493;
 
 width: 100px;
 height: 100px;
-background-color: #000000;
+background-color: black;
 border: 2px solid #ff1493;
 border-radius: 10px;
 display: inline-block;
+
+}
+.o{
+
+    position: relative;
+
+}
+
+.o::after{
+position: absolute;
+content: "\1F6E1";
+font-size: 50px;
+color: #00ff00;
+line-height: 100px;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+
+}
+
+.x{
+
+    position: relative;
+
+}
+
+.x::after{
+position: absolute;
+content: "\2694";
+font-size: 50px;
+color: #00ff00;
+line-height: 100px;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
 
 }
