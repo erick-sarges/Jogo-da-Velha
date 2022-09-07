@@ -3,7 +3,6 @@
 
 ![](./image/img-projetoJdv.png)
 
-
 <h2 align="center">
   Acesse o Jogo-da-velha Clicando <a target="_blank" href="https://erick-sarges.github.io/Jogo-da-Velha/">AQUI</a>!
 </h2>
